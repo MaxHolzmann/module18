@@ -1,6 +1,6 @@
 const { connect, connection } = require('mongoose');
 
-connect('mongodb://localhost/videosAndResponses', { //Change videosAndResponses
+connect('mongodb://127.0.0.1:27017/module18', { //Change videosAndResponses
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
