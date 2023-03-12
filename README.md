@@ -10,3 +10,4 @@ Run "node server" to start the server. Make all of your api calls to localhost:3
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Video Walkthrough
+[Video Link](https://youtu.be/SAQjIBRcnbA)
